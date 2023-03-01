@@ -1,7 +1,7 @@
 /* Colors and font */
 
 body {
-	background: #C0A080;
+	background: #FFA07A;
 	color: #557C55;
 	font-family: roboto serif;
 	font size: 17px;
@@ -16,13 +16,13 @@ h1,h2{
 }
 
 h1{
-	color: #362706;
+	color: #FFEFD5;
 	font-style: 40px;
 	letter-spacing: 2px;
 }
 
 h2{
-	color: #464E2E;
+	color: #FFEFD5;
 	font-style: 32px;
 	letter-spacing: 1px;
 }
@@ -30,12 +30,12 @@ h2{
 
 a{
 	text-decoration: underline;
-	color: #064635;
+	color: #FFEFD5;
 	font-size: 20px;
 }
 
 a:hover {
-	color: #362706;
+	color: #FFEFD5;
 	text-decoration: none;
 }
 
@@ -65,7 +65,7 @@ a:hover {
 }
 
 .card-beige{
-	background: #E9E5D6 ;
+	background: #FFA07A ;
 	border-radius: 5px;
 	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
 	padding: 40px;
@@ -78,7 +78,7 @@ a:hover {
 }
 
 .btn-green{
-	background:#064635 ;
+	background:#FFEFD5 ;
 	color: rgb(230, 230, 230);
 	padding: 15px 20px;
 	border-radius: 5px;
@@ -86,7 +86,7 @@ a:hover {
 
 .btn-green:hover{
 	color:rgb(230, 230, 230); 
-	background: #362706;
+	background: #FFEFD5;
 }
 
 .list-inline{
